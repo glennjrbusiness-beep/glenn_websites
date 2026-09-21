@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favorite Dinosaurs</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>My Favorite Dinosaurs</h1>
+    </header>
+
+    <main>
+
+        <section>
+            <h2>Three Dinosaurs I Like</h2>
+
+            <ul>
+                <li>Triceratops</li>
+                <li>Tyrannosaurus Rex</li>
+                <li>Stegosaurus</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Dinosaur Pictures</h2>
+
+<img src="images/triceratops.png" alt="Triceratops" width="300">
+
+<img src="images/trex.png" alt="Tyrannosaurus Rex" width="300">
+
+<img src="images/stegosaurus.png" alt="Stegosaurus" width="300">
+            
+        </section>
+
+        <p>
+            Learn more about dinosaurs on
+            <a href="https://en.wikipedia.org/wiki/Dinosaur" target="_blank">
+                Wikipedia
+            </a>.
+        </p>
+
+    </main>
+
+    <footer>
+        <p>Created for my HTML practice page.</p>
+    </footer>
+
+</body>
+
+</html>
